@@ -1,7 +1,6 @@
-# 20_project_in_20-Movie-Seat-Booking
 # Movie Seat Booking
 
-This project is a simple movie seat booking application built with HTML, CSS, and JavaScript. Users can select movie, choose seats, and see the total price.
+This project is a simple movie seat booking application built with HTML, CSS, and JavaScript. Users can select a movie, choose seats, and see the total price.
 
 ## Live Demo
 
@@ -9,9 +8,9 @@ You can view a live demo of the project [here](https://a-basuony.github.io/20_pr
 
 ## Features
 
-- Select movie from dropdown
-- Select seats by clicking on them
-- See total price update in real-time
+- Select a movie from the dropdown
+- Click on available seats to select them
+- See the total price update in real-time
 
 ## Installation
 
